@@ -6,4 +6,4 @@
 
 > Hope you enjoy 💜
 
-👉👉👉 Try it out [Tasks List](https://dribbble.com/IrakliLolashvili)
+👉👉👉 Try it out [Tasks List](https://tasks-list-manager.netlify.app/)
